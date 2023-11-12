@@ -1,0 +1,2 @@
+pkg install neofetch && pkg install proot-distro && proot-distro install archlinux
+echo "neofetch && proot-distro login archlinux" >> ~/.bashrc
